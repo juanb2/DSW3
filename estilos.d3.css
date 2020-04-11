@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:  #6583e7;
+}
+.container{
+    width: 1200px;
+    background: white;
+    margin: 10px auto;
+}
+.superior{
+background: #1551a1;
+overflow: hidden;
+}
+.logo,{
+    float: left;
+}
+.menu{
+    float: left; 
+
+}
